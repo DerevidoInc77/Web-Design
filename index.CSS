@@ -1,0 +1,29 @@
+#container {
+	 max-width: 1024 px;
+	 max-height: 768 px
+}
+
+#header {
+	max-width: 512 px;
+	max-height: 384 px;
+	margin: auto;
+ 
+ #body {
+ 	 max-width: 256 px;
+ 	 max-height: 192 px;
+ 	 background-color: grey;
+ 	 color: white;
+ 	 margin: auto;
+ }
+}
+h1 {
+ text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+form {
+text-align: center;
+}
